@@ -52,5 +52,6 @@ Currently the css styles are written inline which is not a very good practice. I
 - https://css-tricks.com/css-modules-part-3-react/
 - http://javascriptplayground.com/blog/2016/07/css-modules-webpack-react/
 - https://www.codementor.io/tamizhvendan/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack-du107r9zr
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 Thanks

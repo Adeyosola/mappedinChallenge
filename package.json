@@ -1,5 +1,5 @@
 {
-  "name": "mysite",
+  "name": "mappedinChallenge",
   "version": "1.0.0",
   "description": "A website in React that fetches axiomaticdesign starred GitHub repos and displays them",
   "main": "index.js",
@@ -36,5 +36,8 @@
     "style-loader": "^0.17.0",
     "webpack": "^2.5.1",
     "webpack-dev-server": "^2.4.5"
+  },
+  "devDependencies": {
+    "extract-text-webpack-plugin": "^2.1.0"
   }
 }

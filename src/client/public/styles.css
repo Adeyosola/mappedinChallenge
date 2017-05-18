@@ -1,12 +1,12 @@
-.pStyle {
+.style__pStyle___VMrrp {
   border-style: solid 2px;
 }
 
-.a {
+.style__a___3b-k0 {
   textDecoration: underline;
   color: #00F;
 }
-.cardTitle {
+.style__cardTitle___2W_Nz {
   padding: 0;
   margin: 0;
   display: -webkit-box;
@@ -20,7 +20,7 @@
   text-align: center;
 }
 
-.forkStyle {
+.style__forkStyle___3F_DK {
   color: #808080;
   fontSize: 14px;
 }

@@ -1,0 +1,11 @@
+.pStyle {
+  borderStyle: solid 2px;
+}
+CardTitle {
+  textDecoration: underline;
+  color: #00F;
+}/*back={};*/
+fork {
+  color: #808080;
+  fontSize: 14px;
+}
